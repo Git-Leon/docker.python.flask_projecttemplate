@@ -2,7 +2,7 @@
 FROM python:3.5-slim
 
 # declares who the author of the image is
-LABEL maintainer github.com/git-leon
+LABEL maintainer="github.com/git-leon"
 
 # tells us which user should be running the image
 USER root
