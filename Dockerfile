@@ -1,5 +1,4 @@
-
-# get Python3.5 and it’s package manager, pip
+# get Python3.5 image and it’s package manager, pip
 FROM python:3.5-slim
 
 # declares who the author of the image is
